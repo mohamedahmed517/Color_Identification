@@ -7,7 +7,7 @@ This project allows users to identify the name of a color by clicking on it in a
 ## 🧰 Features
 
 - Detects the color name from a clicked point in an image
-- Displays RGB and HEX values
+- Displays color name and their RGB values
 - Uses a CSV file containing color names and values
 - Built with OpenCV for GUI and image handling
 
